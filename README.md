@@ -1,6 +1,9 @@
 # i_am_poor_app
 
-A challenge Flutter project.
+<img src="https://github.com/anshumanbisoyi/i_am_poor_app/blob/master/Images/Simulator%20Screen%20Shot%20-%20iPhone%2013%20-%202022-01-18%20at%2021.11.50-min.png" width="200" height="400" />
+
+
+An app challenge in the Flutter bootcamp.
 
 ## Getting Started
 
